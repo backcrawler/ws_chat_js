@@ -1,0 +1,15 @@
+{
+  "name": "ws_chat_js",
+  "version": "1.0.0",
+  "description": "WS Chat",
+  "main": "server.js",
+  "scripts": {
+    "test": "ws_test",
+    "start": "node server.js"
+  },
+  "author": "backcrawler",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.2.2"
+  }
+}
